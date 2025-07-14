@@ -20,14 +20,18 @@ Copilot is available for approved users. Learn how to enable and use it in our
 ## 🏷️ Tagging
 Tag synchronization is handled automatically by a script that runs as part of our deployment or data processing pipeline. This script is responsible for identifying relevant resources, applying or updating tags based on predefined rules or metadata sources, and ensuring consistency across environments.	
 
-#### Teams:
-When creating teams, it's helpful to use acronyms in the team names to make it easier to identify and filter them.
-##### For example:
+<details>
+<summary>Teams</summary>
+ When creating teams, it's helpful to use acronyms in the team names to make it easier to identify and filter them.
+<details>
+<summary>Examples</summary>
+
 Customer Experience → Footlocker-CE
 Infrastructure → Footlocker-Infrastructure
 Core Retail → Footlocker-CR
 Data Analytics → Footlocker-DA
 This naming convention improves clarity and consistency across platforms.
+<details>
 
 REPO Admins:
 
