@@ -29,10 +29,11 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 | Repositories | [Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?) | |
 | Criticality | High, Medium, Low | |
 
-
-## Branch Structure
+ ### More Information
+ 
 <details>
-  <summary>Click me</summary>
+<summary>Branch Structure</summary> 
+
 ### Main Branches
 
 #### `main`
@@ -62,9 +63,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
     
 </details>
 
-## Branch Protection Rules
+
 <details>
-  <summary>Click me</summary>
+  <summary>Branch Protection Rules</summary>
+ 
 ### `main` Branch
 - ✅ Require pull request reviews (minimum 2 approvers)
 - ✅ Require status checks to pass
@@ -113,9 +115,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 
 </details>
 
-## Emergency Procedures
+
 <details>
-  <summary>Click me</summary>
+  <summary>Emergency Procedures</summary>
+ 
 ### Critical Production Issue
 1. **Immediate Response**: Create hotfix branch from `main`
 2. **Fast Track**: Bypass normal review process if necessary
@@ -132,9 +135,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 
 </details>
 
-## Best Practices
+
 <details>
-  <summary>Click me</summary>
+  <summary>Best Practices</summary>
+ 
 ### Branch Management
 - 🔄 Keep branches short-lived (< 2 weeks)
 - 🧹 Delete merged branches promptly
@@ -151,9 +155,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 
 </details>
 
-## Tools and Integrations
+
 <details>
-  <summary>Click me</summary>
+  <summary>Tools and Integrations</summary>
+ 
 ### Recommended Tools
 - **Git GUI**: GitKraken, Sourcetree, or VS Code Git integration
 - **Code Review**: GitHub/GitLab pull requests
@@ -174,7 +179,7 @@ git config --global alias.visual '!gitk'
 
 </details>
 
-*Last updated: July 14, 2025*
+*Last updated: July 11, 2025*
 *Version: 1.0*
 
 ---
