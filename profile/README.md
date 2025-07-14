@@ -32,6 +32,7 @@ Core Retail → Footlocker-CR
 Data Analytics → Footlocker-DA
 This naming convention improves clarity and consistency across platforms.
 <details>
+<details>
 
 REPO Admins:
 
