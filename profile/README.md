@@ -21,7 +21,7 @@ Copilot is available for approved users. Learn how to enable and use it in our
 Tag synchronization is handled automatically by a script that runs as part of our deployment or data processing pipeline. This script is responsible for identifying relevant resources, applying or updating tags based on predefined rules or metadata sources, and ensuring consistency across environments.	
 
 <details>
-<summary>**Teams**</summary>
+<summary> **Teams** </summary>
  When creating teams, it's helpful to use acronyms in the team names to make it easier to identify and filter them.
 <details>
 <summary>Examples</summary>
