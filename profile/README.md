@@ -26,10 +26,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 <details>
 <summary>Examples</summary>
 
-:Customer Experience → Footlocker-CE
-:Infrastructure → Footlocker-Infrastructure
-:Core Retail → Footlocker-CR
-:Data Analytics → Footlocker-DA
+- Customer Experience → Footlocker-CE
+- Infrastructure → Footlocker-Infrastructure
+- Core Retail → Footlocker-CR
+- Data Analytics → Footlocker-DA
 This naming convention improves clarity and consistency across platforms.
 </details>
 </details>
