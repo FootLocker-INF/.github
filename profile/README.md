@@ -35,8 +35,12 @@ This naming convention improves clarity and consistency across platforms.
 </details>
 
 <details>
-<summary>REPO Admins:</summary>REPO 
-
+<summary>Enterprise Owners:</summary>REPO 
+- Satya Prakash
+- Ryan siegel
+- Austtin Poindexter
+- Dani Tam
+- Jake francois
 [Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?)
 
 | Teams | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
