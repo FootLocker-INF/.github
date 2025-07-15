@@ -18,21 +18,45 @@ Copilot is available for approved users. Learn how to enable and use it in our
 
 
 ## 🏷️ Tagging
+
+[Leanix](https://footlocker.leanix.net/footlockerproduction/dashboard/aca7bb56-4b03-4813-8688-ae7d01db71a5)
+
 Tag synchronization is handled automatically by a script that runs as part of our deployment or data processing pipeline. This script is responsible for identifying relevant resources, applying or updating tags based on predefined rules or metadata sources, and ensuring consistency across environments.	
 
-| Name | Description | |
-
-
-| Environment | Dev & Prod | |
-| Teams | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
-| RepoOwner | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
-| Repositories | [Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?) | |
-| Criticality | High, Medium, Low | |
-
-
-## Branch Structure
 <details>
-  <summary>Click me</summary>
+<summary> Teams: </summary>
+ When creating teams, it's helpful to use acronyms in the team names to make it easier to identify and filter them.
+<details>
+<summary>Examples:</summary>
+Org Names:
+ 
+- Customer Experience → Footlocker-CE
+- Infrastructure → Footlocker-Infrastructure
+- Core Retail → Footlocker-CR
+- Data Analytics → Footlocker-DA
+  
+This naming convention improves clarity and consistency across platforms.
+</details>
+</details>
+
+<details>
+<summary>Enterprise Owners:</summary>
+ 
+- Satya Prakash
+- Ryan siegel
+- Austtin Poindexter
+- Dani Tam
+- Jake francois
+  
+[Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?)
+
+</details>
+
+ ### :page_with_curl: More Information
+ 
+<details>
+<summary>Branch Structure</summary> 
+
 ### Main Branches
 
 #### `main`
@@ -62,9 +86,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
     
 </details>
 
-## Branch Protection Rules
+
 <details>
-  <summary>Click me</summary>
+  <summary>Branch Protection Rules</summary>
+ 
 ### `main` Branch
 - ✅ Require pull request reviews (minimum 2 approvers)
 - ✅ Require status checks to pass
@@ -113,9 +138,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 
 </details>
 
-## Emergency Procedures
+
 <details>
-  <summary>Click me</summary>
+  <summary>Emergency Procedures</summary>
+ 
 ### Critical Production Issue
 1. **Immediate Response**: Create hotfix branch from `main`
 2. **Fast Track**: Bypass normal review process if necessary
@@ -132,9 +158,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 
 </details>
 
-## Best Practices
+
 <details>
-  <summary>Click me</summary>
+  <summary>Best Practices</summary>
+ 
 ### Branch Management
 - 🔄 Keep branches short-lived (< 2 weeks)
 - 🧹 Delete merged branches promptly
@@ -151,9 +178,10 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 
 </details>
 
-## Tools and Integrations
+
 <details>
-  <summary>Click me</summary>
+  <summary>Tools and Integrations</summary>
+ 
 ### Recommended Tools
 - **Git GUI**: GitKraken, Sourcetree, or VS Code Git integration
 - **Code Review**: GitHub/GitLab pull requests
@@ -176,5 +204,3 @@ git config --global alias.visual '!gitk'
 
 *Last updated: July 14, 2025*
 *Version: 1.0*
-
----
