@@ -34,13 +34,15 @@ This naming convention improves clarity and consistency across platforms.
 </details>
 </details>
 
-REPO Admins:
+<details>
+<summary>REPO Admins:</summary>REPO 
 
 [Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?)
 
 | Teams | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
 | RepoOwner | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
 
+</details>
 
  ### More Information
  
