@@ -18,6 +18,9 @@ Copilot is available for approved users. Learn how to enable and use it in our
 
 
 ## 🏷️ Tagging
+
+[Leanix](https://footlocker.leanix.net/footlockerproduction/dashboard/aca7bb56-4b03-4813-8688-ae7d01db71a5)
+
 Tag synchronization is handled automatically by a script that runs as part of our deployment or data processing pipeline. This script is responsible for identifying relevant resources, applying or updating tags based on predefined rules or metadata sources, and ensuring consistency across environments.	
 
 <details>
