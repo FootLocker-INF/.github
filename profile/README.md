@@ -29,6 +29,7 @@ Tag synchronization is handled automatically by a script that runs as part of ou
 <details>
 <summary>Examples:</summary>
 Org Names:
+ 
 - Customer Experience → Footlocker-CE
 - Infrastructure → Footlocker-Infrastructure
 - Core Retail → Footlocker-CR
