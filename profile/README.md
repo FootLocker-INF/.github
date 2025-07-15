@@ -35,7 +35,8 @@ This naming convention improves clarity and consistency across platforms.
 </details>
 
 <details>
-<summary>Enterprise Owners:</summary>REPO 
+<summary>Enterprise Owners:</summary>
+ 
 - Satya Prakash
 - Ryan siegel
 - Austtin Poindexter
