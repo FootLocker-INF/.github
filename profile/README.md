@@ -28,7 +28,7 @@ Tag synchronization is handled automatically by a script that runs as part of ou
  When creating teams, it's helpful to use acronyms in the team names to make it easier to identify and filter them.
 <details>
 <summary>Examples:</summary>
-
+Org Names:
 - Customer Experience → Footlocker-CE
 - Infrastructure → Footlocker-Infrastructure
 - Core Retail → Footlocker-CR
@@ -47,9 +47,6 @@ This naming convention improves clarity and consistency across platforms.
 - Jake francois
   
 [Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?)
-
-| Teams | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
-| RepoOwner | Cloud Eng, Cloud Team, DBA Team, DevOps Eng, IT Automation, Network Eng, Platform Eng | |
 
 </details>
 
