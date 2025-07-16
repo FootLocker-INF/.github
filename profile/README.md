@@ -57,14 +57,14 @@ This naming convention improves clarity and consistency across platforms.
 <details>
 <summary>Branch Structure</summary> 
 
-### Main Branches
+  ### Main Branches
 
-#### `main`
-- **Purpose**: Production-ready code that is stable and deployable
-- **Protection**: Protected branch with strict merge requirements
-- **Deployment**: Automatically deployed to production environment
-- **Merge Policy**: Only accepts merges from `hotfix/*` and `develop` branches
-- **Naming Convention**: `main`
+  #### `main`
+  - **Purpose**: Production-ready code that is stable and deployable
+  - **Protection**: Protected branch with strict merge requirements
+  - **Deployment**: Automatically deployed to production environment
+  - **Merge Policy**: Only accepts merges from `hotfix/*` and `develop` branches
+  - **Naming Convention**: `main`
 
 #### `develop`
 - **Purpose**: Integration branch where all features come together
