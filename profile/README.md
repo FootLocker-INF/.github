@@ -52,7 +52,7 @@ This naming convention improves clarity and consistency across platforms.
 
 </details>
 
- ### :page_with_curl: More Information
+ ## :page_with_curl: More Information
  
 <details>
 <summary>Branch Structure</summary> 
