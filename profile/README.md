@@ -36,6 +36,15 @@ Org Names:
 - Data Analytics → Footlocker-DA
   
 This naming convention improves clarity and consistency across platforms.
+
+<summary>Examples:</summary>
+Team Names:
+ 
+- Platform Engineering
+- Cloud Engineering
+- IT Automation
+  
+</details>
 </details>
 </details>
 
