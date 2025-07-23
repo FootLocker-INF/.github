@@ -38,6 +38,7 @@ Org Names:
 This naming convention improves clarity and consistency across platforms.
 
 <summary>Examples:</summary>
+
 Team Names:
  
 - Platform Engineering
@@ -211,7 +212,7 @@ git config --global alias.visual '!gitk'
 
 </details>
 
-*Last updated: July 21, 2025*
+*Last updated: July 23, 2025*
 *Version: 1.0*
 
 ---
