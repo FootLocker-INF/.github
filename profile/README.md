@@ -8,8 +8,11 @@ This page provides essential information and guidelines for working within our G
 Access is managed via teams. Request access through
 [Github Access](https://footlocker.atlassian.net/wiki/spaces/PEP/pages/452624578/GitHub+Access) or contact an admin.
 
-<summary>Virtual Studio Code Setup:</summary>
-Here is the steps if needing to setup guthub to VSC
+<details>
+<summary> Virtual Studio Code Setup: </summary>
+ 
+Here is the steps if needing to setup guthub to VSC....
+
 </details>
 
 ## 🤖 GitHub Copilot
