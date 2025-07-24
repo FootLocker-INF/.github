@@ -1,5 +1,5 @@
 
-# Welcome to FootLocker-INF on GitHub 👋
+# Welcome to FootLocker-ORG_NAME on GitHub 👋
 
 This page provides essential information and guidelines for working within our GitHub organization.
 
