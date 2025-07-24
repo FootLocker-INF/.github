@@ -6,7 +6,7 @@ This page provides essential information and guidelines for working within our G
 ---
 ## 🔐 GitHub Access
 Access is managed via teams. Request access through
-[Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349801/GitHub+Onboarding) or contact an admin.
+[Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/PEP/pages/452624578/GitHub+Access) or contact an admin.
 
 ## 🤖 GitHub Copilot
 Copilot is available for approved users. Learn how to enable and use it in our
