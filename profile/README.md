@@ -10,7 +10,8 @@ Access is managed via teams. Request access through
 
 <details>
 <summary> Virtual Studio Code Setup: </summary>
- 
+
+ In progress..
 Here is the steps if needing to setup guthub to VSC....
 
 </details>
