@@ -70,6 +70,29 @@ Team Names:
 </details>
 
  ## :page_with_curl: More Information
+
+ <details>
+<summary>📘 Git Pull & Push Guide</summary>
+  
+
+## 🔧 Prerequisites
+- Git installed on your machine
+- Access to a Git repository (e.g., GitHub, GitLab, Bitbucket)
+- SSH or HTTPS access configured
+
+---
+
+## 📥 How to Pull Code
+
+Pulling code means fetching the latest changes from a remote repository and merging them into your local branch.
+
+### Steps:
+1. **Navigate to your project directory**:
+   ```bash
+   cd /path/to/your/project
+   ```
+</details>
+
  
 <details>
 <summary>Branch Structure</summary> 
