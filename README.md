@@ -1,12 +1,20 @@
 
-# Welcome to FootLocker-INF on GitHub 👋
+# Welcome to FootLocker-ORG_NAME on GitHub 👋
 
 This page provides essential information and guidelines for working within our GitHub organization.
 
 ---
 ## 🔐 GitHub Access
 Access is managed via teams. Request access through
-[Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349801/GitHub+Onboarding) or contact an admin.
+[Github Access](https://footlocker.atlassian.net/wiki/spaces/PEP/pages/452624578/GitHub+Access) or contact an admin.
+
+<details>
+<summary> Virtual Studio Code Setup: </summary>
+
+ In progress..
+Here is the steps if needing to setup guthub to VSC....
+
+</details>
 
 ## 🤖 GitHub Copilot
 Copilot is available for approved users. Learn how to enable and use it in our
@@ -36,6 +44,16 @@ Org Names:
 - Data Analytics → Footlocker-DA
   
 This naming convention improves clarity and consistency across platforms.
+
+<summary>Examples:</summary>
+
+Team Names:
+ 
+- Platform Engineering
+- Cloud Engineering
+- IT Automation
+  
+</details>
 </details>
 </details>
 
@@ -53,18 +71,41 @@ This naming convention improves clarity and consistency across platforms.
 </details>
 
  ## :page_with_curl: More Information
+
+ <details>
+<summary>Git Pull & Push Guide</summary>
+  
+
+## 🔧 Prerequisites
+- Git installed on your machine
+- Access to a Git repository (e.g., GitHub, GitLab, Bitbucket)
+- SSH or HTTPS access configured
+
+---
+
+## 📥 How to Pull Code
+
+Pulling code means fetching the latest changes from a remote repository and merging them into your local branch.
+
+### Steps:
+1. **Navigate to your project directory**:
+   ```bash
+   cd /path/to/your/project
+   ```
+</details>
+
  
 <details>
 <summary>Branch Structure</summary> 
 
-### Main Branches
+  ### Main Branches
 
-#### `main`
-- **Purpose**: Production-ready code that is stable and deployable
-- **Protection**: Protected branch with strict merge requirements
-- **Deployment**: Automatically deployed to production environment
-- **Merge Policy**: Only accepts merges from `hotfix/*` and `develop` branches
-- **Naming Convention**: `main`
+  #### `main`
+  - **Purpose**: Production-ready code that is stable and deployable
+  - **Protection**: Protected branch with strict merge requirements
+  - **Deployment**: Automatically deployed to production environment
+  - **Merge Policy**: Only accepts merges from `hotfix/*` and `develop` branches
+  - **Naming Convention**: `main`
 
 #### `develop`
 - **Purpose**: Integration branch where all features come together
@@ -202,5 +243,7 @@ git config --global alias.visual '!gitk'
 
 </details>
 
-*Last updated: July 16, 2025*
+*Last updated: July 24, 2025*
 *Version: 1.0*
+
+---
