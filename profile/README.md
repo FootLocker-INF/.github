@@ -6,7 +6,7 @@ This page provides essential information and guidelines for working within our G
 ---
 ## 🔐 GitHub Access
 Access is managed via teams. Request access through
-[Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/PEP/pages/452624578/GitHub+Access) or contact an admin.
+[Github Access](https://footlocker.atlassian.net/wiki/spaces/PEP/pages/452624578/GitHub+Access) or contact an admin.
 
 ## 🤖 GitHub Copilot
 Copilot is available for approved users. Learn how to enable and use it in our
@@ -212,7 +212,7 @@ git config --global alias.visual '!gitk'
 
 </details>
 
-*Last updated: July 23, 2025*
+*Last updated: July 24, 2025*
 *Version: 1.0*
 
 ---
