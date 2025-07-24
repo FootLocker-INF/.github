@@ -72,7 +72,7 @@ Team Names:
  ## :page_with_curl: More Information
 
  <details>
-<summary>📘 Git Pull & Push Guide</summary>
+<summary>Git Pull & Push Guide</summary>
   
 
 ## 🔧 Prerequisites
