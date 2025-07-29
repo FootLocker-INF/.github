@@ -212,10 +212,57 @@ Pulling code means fetching the latest changes from a remote repository and merg
 
 ### Code Quality
 - 📝 Write meaningful commit messages
+  ✅ Good Example:
+  ```bash
+  git commit -m "fix(auth): handle token expiration and refresh automatically" 
+
+ 🚫 Bad Example:
+  ```bash
+  git commit -m "fix stuff"
+  ```
+ 
 - 🧪 Include tests with new features
+  ✅ Example
+  ```bash
+  describe('UserService', () => {
+  it('should return user data when ID is valid', async () => {
+    const user = await getUserById('123');
+    expect(user.name).toBe('Alice');
+  });
+  });
+  
 - 📚 Update documentation
+  ✅ Example: Update README.md or inline comments when:
+
+ Adding new environment variables
+  Changing API endpoints
+  Modifying CLI commands
+  ```bash
+
+### New Environment Variable
+`FEATURE_FLAG_NEW_UI=true`  
+Enables the new user interface for beta testing.
+```
 - 🔍 Run local tests before pushing
+  ✅ Example:
+    ```bash
+  # Run all tests
+  npm test
+
+  # Run linter
+  npm run lint
+
+  # Run type checks
+  tsc --noEmit
 - 🏃‍♂️ Keep pull requests focused
+  
+  ✅ Good PR:
+
+  Adds password reset functionality with backend API and frontend form.
+
+  🚫 Bad PR:
+
+  Adds password reset, updates navbar, refactors login, and fixes unrelated bug.
 
 </details>
 
