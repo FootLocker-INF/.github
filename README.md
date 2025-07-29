@@ -222,16 +222,19 @@ Use meaningful variable and function names.
 Keep functions small and focused on a single task.
 Avoid deep nesting and long files.
 Follow a consistent naming convention (e.g., camelCase, snake_case).
+
 🔹 Follow a Style Guide
 Use language-specific style guides (e.g., PEP8 for Python, Google Java Style Guide).
 Use linters like:
 ESLint for JavaScript
 flake8 or black for Python
 Checkstyle for Java
+
 🔹 Write Unit and Integration Tests
 Use frameworks like pytest, Jest, JUnit, etc.
 Aim for high test coverage, but prioritize meaningful tests over 100% coverage.
 Automate tests using GitHub Actions or other CI tools.
+
 🧪 2. Use GitHub Actions for CI/CD
 Example Workflow: .github/workflows/ci.yml
 
@@ -244,10 +247,12 @@ CodeQL	GitHub-native security analysis
 Coveralls / Codecov	Test coverage reporting
 Dependabot	Automated dependency updates
 Prettier	Code formatting
+
 🔍 4. Enforce Code Reviews and Branch Protections
 Require at least one approving review before merging.
 Enable status checks (e.g., tests must pass).
 Use branch protection rules to prevent direct pushes to main.
+
 📄 5. Documentation and Comments
 Maintain a clear README.md with setup, usage, and contribution guidelines.
 Use docstrings and inline comments to explain why, not just what.
