@@ -98,6 +98,13 @@ Pulling code means fetching the latest changes from a remote repository and merg
 <details>
 <summary>Branch Structure</summary> 
 
+### Branch Management
+- 🔄 Keep branches short-lived (< 2 weeks)
+- 🧹 Delete merged branches promptly
+- 📝 Use descriptive branch names
+- 🔄 Regularly sync with parent branch
+- 🚫 Avoid long-running feature branches
+
   ### Main Branches
 
   #### `main`
@@ -201,14 +208,7 @@ Pulling code means fetching the latest changes from a remote repository and merg
 
 
 <details>
-  <summary>Best Practices</summary>
- 
-### Branch Management
-- 🔄 Keep branches short-lived (< 2 weeks)
-- 🧹 Delete merged branches promptly
-- 📝 Use descriptive branch names
-- 🔄 Regularly sync with parent branch
-- 🚫 Avoid long-running feature branches
+  <summary>Code Quality & Best Practices</summary>
 
 ### Code Quality
 - 📝 Write meaningful commit messages
