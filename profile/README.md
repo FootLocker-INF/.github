@@ -9,7 +9,6 @@ Access is managed via teams. Request access through
 [Github Access](https://footlocker.atlassian.net/wiki/spaces/PEP/pages/452624578/GitHub+Access) or contact an admin.
 
 
-
 ## 🤖 GitHub Copilot
 Copilot is available for approved users. Learn how to enable and use it in our
 [Github Copilot Guide](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349859/GitHub+Copilot)
@@ -65,28 +64,6 @@ Team Names:
 </details>
 
  ## :page_with_curl: More Information
-
- <details>
-<summary>Git Pull & Push Guide</summary>
-  
-
-## 🔧 Prerequisites
-- Git installed on your machine
-- Access to a Git repository (e.g., GitHub, GitLab, Bitbucket)
-- SSH or HTTPS access configured
-
----
-
-## 📥 How to Pull Code
-
-Pulling code means fetching the latest changes from a remote repository and merging them into your local branch.
-
-### Steps:
-1. **Navigate to your project directory**:
-   ```bash
-   cd /path/to/your/project
-   ```
-</details>
 
  
 <details>
@@ -270,27 +247,6 @@ Choose a strategy that aligns with your team's size, workflow, and release sched
 ---
 </details>
 
-
-<details>
-  <summary>Emergency Procedures</summary>
- 
-### Critical Production Issue
-1. **Immediate Response**: Create hotfix branch from `main`
-2. **Fast Track**: Bypass normal review process if necessary
-3. **Communication**: Notify team leads and stakeholders
-4. **Documentation**: Document the issue and resolution
-5. **Post-Mortem**: Schedule retrospective to prevent recurrence
-
-### Rollback Procedure
-1. **Identify**: Determine the last known good commit
-2. **Revert**: Create revert commit or hotfix
-3. **Deploy**: Follow hotfix deployment process
-4. **Monitor**: Verify system stability
-5. **Investigate**: Analyze root cause offline
-
-</details>
-
-
 <details>
   <summary>Code Quality & Best Practices</summary>
 
@@ -350,6 +306,47 @@ Enables the new user interface for beta testing.
 
 </details>
 
+ <details>
+<summary>Git Pull & Push Guide</summary>
+  
+
+## 🔧 Prerequisites
+- Git installed on your machine
+- Access to a Git repository (e.g., GitHub, GitLab, Bitbucket)
+- SSH or HTTPS access configured
+
+---
+
+## 📥 How to Pull Code
+
+Pulling code means fetching the latest changes from a remote repository and merging them into your local branch.
+
+### Steps:
+1. **Navigate to your project directory**:
+   ```bash
+   cd /path/to/your/project
+   ```
+</details>
+
+
+<details>
+  <summary>Emergency Procedures</summary>
+ 
+### Critical Production Issue
+1. **Immediate Response**: Create hotfix branch from `main`
+2. **Fast Track**: Bypass normal review process if necessary
+3. **Communication**: Notify team leads and stakeholders
+4. **Documentation**: Document the issue and resolution
+5. **Post-Mortem**: Schedule retrospective to prevent recurrence
+
+### Rollback Procedure
+1. **Identify**: Determine the last known good commit
+2. **Revert**: Create revert commit or hotfix
+3. **Deploy**: Follow hotfix deployment process
+4. **Monitor**: Verify system stability
+5. **Investigate**: Analyze root cause offline
+
+</details>
 
 <details>
   <summary>Tools and Integrations</summary>
@@ -374,8 +371,6 @@ git config --global alias.visual '!gitk'
 
 </details>
 
-*Last updated: aug 5, 2025*
+*Last updated: Aug 5th, 2025*
 *Version: 1.0*
-
----
 
