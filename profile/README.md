@@ -6,7 +6,7 @@ This page provides essential information and guidelines for working within our G
 ---
 ## 🤖 GitHub Access
 
-For setting up new users follow the instructions in the [Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349801/GitHub+Onboarding) page in confluence.
+For setting up new users, follow the instructions in the [Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349801/GitHub+Onboarding) page in confluence.
 
 
 ## 🤖 GitHub Copilot
