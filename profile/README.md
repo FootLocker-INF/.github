@@ -20,40 +20,6 @@ Please follow the link in regards to the information on [Naming Standards](https
 
 Tag synchronization is handled automatically by a script that runs as part of our deployment or data processing pipeline. This script is responsible for identifying relevant resources, applying or updating tags based on predefined rules or metadata sources, and ensuring consistency across environments.	
 
-<details>
-<summary> Orgs & Teams: </summary>
- When creating teams, it's helpful to use acronyms in the team names to make it easier to identify and filter them.
-<details>
-<summary>Examples:</summary>
-Org Names:
- 
-- Customer Experience → Footlocker-CE
-- Infrastructure → Footlocker-Infrastructure
-- Core Retail → Footlocker-CR
-- Data Analytics → Footlocker-DA
-  
-This naming convention improves clarity and consistency across platforms.
-
-<summary>Examples:</summary>
-
-Team Names:
- 
-- Platform Engineering
-- Cloud Engineering
-- IT Automation
-  
-</details>
-</details>
-</details>
-
-<details>
-<summary>Enterprise Owners:</summary>
- 
-- Satya Prakash
-- Ryan siegel
-- Austtin Poindexter
-- Dani Tam
-- Jake francois
   
 [Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?)
 
