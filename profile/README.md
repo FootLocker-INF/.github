@@ -11,7 +11,7 @@ Copilot is available for approved users. Learn how to enable and use it in our
 
 
 ## 📛 Naming Standards
-Please follow the link in regards to the information of [Naming Standard](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/270696757/GitHub+Standardization)
+Please follow the link in regards to the information on [Naming Standards](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/270696757/GitHub+Standardization)
 
 
 ## 🏷️ Tagging
@@ -62,11 +62,11 @@ Team Names:
  ## :page_with_curl: More Information
 
  Please view the [Org LVL Additional Information](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/765231260/Org+LVL+Additional+Information) page in regards to information on:
- Branching Flow & Structure
- Code Quality & Best Practices
- Git Pull & Push Guide
- Emergency Procedures
- Tools and Integrations
+ - Branching Flow & Structure
+ - Code Quality & Best Practices
+ - Git Pull & Push Guide
+ - Emergency Procedures
+ - Tools and Integrations
 
 *Last updated: November 24th, 2025*
 *Version: 1.0*
