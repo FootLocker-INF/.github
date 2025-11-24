@@ -4,6 +4,10 @@
 This page provides essential information and guidelines for working within our GitHub organization.
 
 ---
+## 🤖 GitHub Access
+
+For setting up new users follow the instructions in the [Github Onboarding](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349801/GitHub+Onboarding) page in confluence.
+
 
 ## 🤖 GitHub Copilot
 Copilot is available for approved users. Learn how to enable and use it in our
