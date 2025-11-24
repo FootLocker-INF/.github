@@ -21,9 +21,8 @@ Please follow the link in regards to the information on [Naming Standards](https
 Tag synchronization is handled automatically by a script that runs as part of our deployment or data processing pipeline. This script is responsible for identifying relevant resources, applying or updating tags based on predefined rules or metadata sources, and ensuring consistency across environments.	
 
   
-[Footlocker-INF Repos](https://github.com/orgs/FootLocker-INF/repositories?)
 
-</details>
+
 
  ## :page_with_curl: More Information
 
