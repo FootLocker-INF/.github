@@ -14,7 +14,7 @@ Copilot is available for approved users. Learn how to enable and use it in our
 Please follow the link in regards to the information on [Naming Standards](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/270696757/GitHub+Standardization)
 
 
-## 🏷️ Tagging
+## 🏷️ Tagging In progress....
 
 [Leanix](https://footlocker.leanix.net/footlockerproduction/dashboard/aca7bb56-4b03-4813-8688-ae7d01db71a5)
 
