@@ -13,6 +13,8 @@ For setting up new users, follow the instructions in the [Github Onboarding](htt
 Copilot is available for approved users. Learn how to enable and use it in our
 [Github Copilot Guide](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/107349859/GitHub+Copilot)
 
+If you are having issues with copilot there is the troubleshooting section here [Github Copilot Troubleshooting](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/361594922/GitHub+CoPilot+Troubleshooting)
+
 
 ## 📛 Naming Standards
 Please follow the link in regards to the information on [Naming Standards](https://footlocker.atlassian.net/wiki/spaces/Observabil/pages/270696757/GitHub+Standardization)
